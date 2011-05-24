@@ -4,6 +4,7 @@ public class HolaMundo {
 
 	public HolaMundo() {
 		System.out.println("Hola Mundo xD");
+		System.out.println("Listo 01");
 	}
 
 	/**
